@@ -11,6 +11,7 @@
 		A3584D1429BD2BFF000A4850 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3584D1329BD2BFF000A4850 /* ContentView.swift */; };
 		A3584D1629BD2BFF000A4850 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3584D1529BD2BFF000A4850 /* Assets.xcassets */; };
 		A3584D1929BD2BFF000A4850 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3584D1829BD2BFF000A4850 /* Preview Assets.xcassets */; };
+		A3584D2029BE3A28000A4850 /* TapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3584D1F29BE3A28000A4850 /* TapViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A3584D1329BD2BFF000A4850 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A3584D1529BD2BFF000A4850 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3584D1829BD2BFF000A4850 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A3584D1F29BE3A28000A4850 /* TapViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A3584D1129BD2BFF000A4850 /* GUESS_E_MiniTapAppApp.swift */,
 				A3584D1329BD2BFF000A4850 /* ContentView.swift */,
+				A3584D1F29BE3A28000A4850 /* TapViewModel.swift */,
 				A3584D1529BD2BFF000A4850 /* Assets.xcassets */,
 				A3584D1729BD2BFF000A4850 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3584D1429BD2BFF000A4850 /* ContentView.swift in Sources */,
+				A3584D2029BE3A28000A4850 /* TapViewModel.swift in Sources */,
 				A3584D1229BD2BFF000A4850 /* GUESS_E_MiniTapAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
