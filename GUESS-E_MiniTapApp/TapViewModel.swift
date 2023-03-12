@@ -16,6 +16,9 @@ class TapViewModel: /* TODO exactly 2 protocols to be implemented  */ {
     
     /* TODO (initializer)  */
     
+    
+    // Implement the following functions:
+    
     func advertise() {
         
     }
